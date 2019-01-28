@@ -19,7 +19,7 @@
             quantity: "54"
         },
         {
-            name: "Drinks",
+            name: "Orange Juices",
             quantity: "10"
         }
     ];
