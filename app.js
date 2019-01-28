@@ -3,11 +3,11 @@
 
     var shoppingList = [
         {
-            name: "Milk",
+            name: "Coconuts",
             quantity: "34"
         },
         {
-            name: "Donuts",
+            name: "Apples",
             quantity: "65"
         },
         {
@@ -15,11 +15,11 @@
             quantity: "25"
         },
         {
-            name: "Chocolate",
+            name: "Biscuits",
             quantity: "54"
         },
         {
-            name: "Drink",
+            name: "Drinks",
             quantity: "10"
         }
     ];
